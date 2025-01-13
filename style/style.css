@@ -143,8 +143,9 @@
   }
   h1{
     font-size: 56px;
-    font-weight: 700;
+    font-weight: 800;
     color: rgba(14, 14, 14, 1);
+  
   }
   .banner{
     display: flex;
@@ -154,4 +155,77 @@
     border-radius: 25px;
     padding: 65px;
   }
-  
+  .title{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(14, 14, 14, 1);
+    margin: 24px 160px;
+  }
+  .title-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin: 24px 160px;
+  }
+  .vision-c{
+    display: flex;
+    gap:70px;
+    margin: 24px 160px;
+  }
+  .vision-1{
+    border: 1px solid black;
+    padding: 10px 10px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 10px;
+    border: none;
+  }
+  .vision-2{
+    border: 1px solid black;
+    padding: 12px 12px;
+    background-color: rgba(9, 161, 93, 0.559);
+    border-radius: 10px;
+    border: none;
+  }
+  .vision-3{ border: 1px solid black;
+    padding: 10px 10px;
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 10px;
+    border: none;
+  }
+  .vision-head{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(14, 14, 14, 0.8);
+  }
+  .discription{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+  }
+  .b-1{
+    background-color: rgba(25, 93, 212, 0.2);
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 6px;
+    color: white;
+    border: none;
+  }
+  .b-2{
+    background-color: rgba(12, 201, 116, 0.559);
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 6px;
+    color: white;
+    border: none;
+  }
+  .b-3{
+    background-color: rgb(228, 192, 106);
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 6px;
+    color: rgba(255, 255, 255, 0.959);
+    border: none;
+  }
