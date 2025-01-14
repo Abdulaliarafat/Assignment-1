@@ -272,3 +272,159 @@
   .choose{
     padding: 12px 32px 12px 16px;
   }
+.news-head{
+  font-size: 40px;
+  font-weight: 700;
+  color: rgba(14, 14, 14, 1);
+  margin:60px 160px 24px 160px;
+}
+.news-description{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.7);
+  margin:24px 160px 0 160px ;
+}
+.bangla-satelite{
+  display: flex;
+  margin: 25px 160px 25px 160px;
+  border-radius: 26px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.satelite-img{
+  border: 1px solid white;
+  padding: 48px 32px 48px 48px;
+  border-radius: 24px;
+
+}
+.satelite{
+  border: 1px solid white;
+  border-radius: 26px;
+}
+.satelite-title{
+  font-size: 32px;
+  font-weight: 600;
+  color: rgba(14, 14, 14, 0.8);
+}
+.sub-image{
+  width: 130px;
+  max-height: 40px;
+}
+.sub-para{
+color: rgba(14, 14, 14, 0.7);
+} 
+.main-para{
+  font-size: 17px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.767);
+}
+.content{
+  border: 1px solid white;
+  padding: 56px 56px 136px 48px;
+}
+.btn-main{
+    background-color: rgba(0, 106, 80, 1);
+    color: rgba(255, 255, 255, 1);
+    padding: 13px 26px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.bangla-satelite-card-2{
+  display: flex;
+  margin: 0px 160px 0px 160px;
+  border-radius: 26px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.satelite-img-card-2{
+  border: 1px solid white;
+  padding: 48px 32px 48px 48px;
+  border-radius: 24px;
+}
+.satelite-card-2{
+  border: 1px solid white;
+  border-radius: 26px;
+}
+.content-card-2{
+  border: 1px solid white;
+  padding: 56px 56px 136px 48px;
+}
+.satelite-title-card-2{
+  font-size: 32px;
+  font-weight: 600;
+  color: rgba(14, 14, 14, 0.8);
+}
+.sub-image-card-2{
+  width: 130px;
+  max-height: 40px;
+}
+.sub-para-card-2{
+  color: rgba(14, 14, 14, 0.7);
+}
+.main-para-card-2{
+  font-size: 17px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.767);
+}
+.btn-main-card-2, .btn-end{
+  background-color: rgba(0, 106, 80, 1);
+  color: rgba(255, 255, 255, 1);
+  padding: 13px 26px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.Donate-head{
+  font-size: 40px;
+  font-weight: 600;
+  color: rgba(14, 14, 14, 1);
+  margin-bottom: 10 px;
+}
+.Donate-description{
+  font-size: 16px;
+  font-weight: 400;
+ color: rgba(14, 14, 14, 0.7);
+ border: 1px solid black;
+ padding:0 450px 0 450px;
+ margin-top: 24px; 
+ border: none;
+}
+.btn-taka-color{
+font-size: 40px;
+font-weight: 600;
+color: rgba(14, 14, 14, 0.8);
+background-color: lightblue;
+padding: 35px;
+border-radius: 16px;
+}
+.currency{
+  font-size: 15px;
+  font-weight: 400;
+  color:rgba(14, 14, 14, 0.3);
+  text-align: center;
+  padding: 18px 400px;
+  margin-bottom: 32px;
+}
+.charity{
+  border: 1px solid black;
+  text-align: center;
+  border: none;
+}
+.btn-taka{
+  padding: 35px;
+  border-radius: 16px;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 1);
+  font-size: 40px;
+  font-weight: 600;
+  color: rgba(14, 14, 14, 0.8);
+  gap:24px 24px;
+}
+.Donate-amount{
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+
+
