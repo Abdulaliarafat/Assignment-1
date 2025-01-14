@@ -229,3 +229,46 @@
     color: rgba(255, 255, 255, 0.959);
     border: none;
   }
+  /* form style */
+  table{
+    border-collapse: collapse;
+    margin: 26px 160px 26px 160px;
+  }
+  .head{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(14, 14, 14, 1);
+    margin: 80px 160px 24px 160px;
+    
+  }
+  th{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(14, 14, 14, 1);
+    border: 1px solid rgb(185, 184, 184);
+    padding:24px 24px;
+    background-color: rgba(198, 228, 214, 1);
+  }
+  tr td {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(14, 14, 14, 1);
+  }
+  #opinion{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(14, 14, 14, 1);
+  }
+  td{
+    border: 1px solid rgb(185, 184, 184);
+
+  }
+  .Questions{
+    padding: 36px 24px;
+  }
+  .answeer{
+    padding: 24px;
+  }
+  .choose{
+    padding: 12px 32px 12px 16px;
+  }
